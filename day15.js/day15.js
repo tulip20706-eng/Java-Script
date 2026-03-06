@@ -24,7 +24,11 @@
 //    });
 //}
 
-//promise 
+//promise is introduced to solve callback hell problem
+// stages 
+//1. pending
+//2. fullfilled 
+//3. rejected
 
 //printAfterDelay(1, 1000)
 //    .then(() => printAfterDelay(2, 1000))
